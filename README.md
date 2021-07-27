@@ -14,6 +14,7 @@ Creational, Structural and Behavioural Design Pattern.
 
 **Already covered:**
 1. Singleton Design Pattern (26/07/2021)
+2. Builder Design Pattern (27/07/2021)
 
 ## Code Editor & Language:
 
